@@ -6,7 +6,10 @@ In this project, i have created 2 models
 
 and I am displaying data from django-db database into JSON format using Rest-framework.
 
-Data into database was added through admin page.
+Here i am using inbuilt database was added through admin page.
 
 Code can be found in myassignment/devapp/
 
+Project is deployed on http://vardavk.pythonanywhere.com/
+
+Thanks.
